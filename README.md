@@ -1,3 +1,3 @@
-# Student_Management_370_project
+# Student_Management_project
 
 A Student Management System
